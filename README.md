@@ -1,4 +1,4 @@
-# Password Generator
+# ShieldKey
 
 A simple and customizable password generator web application that allows users to create strong and secure passwords based on specified criteria.
 
